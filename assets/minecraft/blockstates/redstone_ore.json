@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "unity:block/redstone_ore"
+    }
+  }
+}
