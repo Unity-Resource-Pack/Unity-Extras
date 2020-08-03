@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "block/redstone_ore",
+        "glow": "block/redstone_ore_overlay"
+    }
+}
