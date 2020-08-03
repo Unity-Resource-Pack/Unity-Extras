@@ -5,7 +5,7 @@
         "side": "block/observer_side",
         "top": "block/observer_top",
         "front": "block/observer_front",
-        "front_glow": "unity:block/observer_front_overlay",
+        "front_glow": "block/observer_front_overlay",
         "particle": "block/observer_front"
     },
     "elements": [

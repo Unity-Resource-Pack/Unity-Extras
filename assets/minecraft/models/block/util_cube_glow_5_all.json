@@ -1,5 +1,5 @@
 {
-    "parent": "unity:block/util_block_no_ao",
+    "parent": "block/util_block_no_ao",
     "ambientocclusion": false,
     "elements": [
         {   "from": [ 0, 0, 0 ],

@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#cross",
+		"cross_overlay_bright": "#cross_overlay_bright",
+		"cross_overlay_dim": "#cross_overlay_dim",
+		"cross": "#cross"
+	},
+	"elements": [
+		{
+			"name": "pane1",
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"name": "pane1_overlay_bright",
+			"from": [8, 0, 0.8],
+			"to": [8.01, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_bright"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_bright"}
+			}
+		},
+		{
+			"name": "pane1_overlay_dim",
+			"from": [8, 0, 0.8],
+			"to": [8.01, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_dim"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_dim"}
+			}
+		},
+		{
+			"name": "pane2",
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"name": "pane2_overlay_bright",
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8.01],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_bright"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_bright"}
+			}
+		},
+		{
+			"name": "pane2_overlay_dim",
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8.01],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_dim"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross_overlay_dim"}
+			}
+		}
+	]
+}

@@ -1,5 +1,5 @@
 {
-    "parent": "unity:block/util_cube_glow_2",
+    "parent": "block/util_cube_glow_2",
     "ambientocclusion": false,
     "textures": {
         "particle": "#side",

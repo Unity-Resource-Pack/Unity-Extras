@@ -1,0 +1,18 @@
+{
+    "parent": "block/cube_overlay",
+    "textures": {
+        "particle": "#all",
+        "down": "#all",
+        "up": "#all",
+        "north": "#all",
+        "east": "#all",
+        "south": "#all",
+        "west": "#all",
+        "down_overlay": "#all_overlay",
+        "up_overlay": "#all_overlay",
+        "north_overlay": "#all_overlay",
+        "east_overlay": "#all_overlay",
+        "south_overlay": "#all_overlay",
+        "west_overlay": "#all_overlay"
+    }
+}
