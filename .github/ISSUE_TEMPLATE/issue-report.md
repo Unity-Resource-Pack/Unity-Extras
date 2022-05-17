@@ -20,8 +20,8 @@ Steps to reproduce the behavior:
 **Expected Behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots/Video**
+If applicable, add screenshots or a video to help explain your problem.
 
 **Additional Context**
 Add any other context about the problem here. Do you happen to have any mods installed? Do you have any other resource packs enabled? Are you using OptiFine?
